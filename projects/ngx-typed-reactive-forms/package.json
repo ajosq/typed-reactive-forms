@@ -1,0 +1,11 @@
+{
+    "name": "ngx-typed-reactive-forms",
+    "version": "0.0.1",
+    "peerDependencies": {
+        "@angular/core": "^12.2.0",
+        "@angular/forms": "^12.2.0"
+    },
+    "dependencies": {
+        "tslib": "^2.3.0"
+    }
+}
